@@ -76,8 +76,6 @@ In B2B, **visibility builds trust** and trust drives sales. But most founders ar
 - 🤝 CRM sync for prospect-driven content
 - 🧑‍💼 VA dashboard (for ghostwriting assistants)
 
----
-
 ## 🧪 Try It Locally
 
 ```bash
@@ -85,6 +83,7 @@ git clone https://github.com/yourusername/b2b-linkedin-ghostwriter.git
 cd b2b-linkedin-ghostwriter
 npm install
 npm run dev
+
 🧪 Coming soon: hosted version + deploy button via Vercel
 
 🤝 Support & Collaboration
@@ -107,16 +106,5 @@ Help us empower founders, creators, and ghostwriters with automation.
 
 👉 Donate via GoFundMe
 Even $5 helps keep the open version free and evolving.
-
-🔖 Tags
-less
-Copy
-Edit
-#B2BGhostwriter #LinkedInGrowth #FounderBrand #AIWriter #DailyLinkedIn #OpenSourceGhostwriting #PersonalBrandAI
-⭐️ Star the Repo — Grow a Brand
-If this helped you, star it
-If it inspired you, share it
-If it leveled up your brand — sponsor it
-
 ⚡ Built with ❤️ by Marlon Ridge Diaz Bulaquena
 🔗 GitHub: https://github.com/Ridge-Bulaquena/b2b-linkedin-ghostwriter
