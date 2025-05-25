@@ -42,7 +42,7 @@ Whether you're fundraising, hiring, or building your personal brand, this AI-pow
 
 ## 📦 Quick Start
 
-```bash
+
 git clone https://github.com/Ridge-Bulaquena/b2b-linkedin-ghostwriter.git
 cd b2b-linkedin-ghostwriter
 npm install
@@ -57,27 +57,20 @@ Upload writing samples or connect GitHub/Notion
 Voice Style Engine auto-learns and adapts
 
 🛠️ Built With
+
 ⚛️ React + TailwindCSS
-
 🤖 GPT API + LangChain + Prompt Engineering
-
 🧠 Pinecone / Supabase for memory
-
 🔐 OAuth, Passport.js
-
 🗓️ Cron Jobs / Scheduling Support
 
 📌 Who It's For
+
 Founders building personal brand
-
 B2B execs growing industry influence
-
 Solopreneurs doing sales via thought leadership
-
 Ghostwriting agencies with multiple clients
-
 Recruiters/HR heads showcasing culture
-
 Coaches, authors, and creators
 
 💸 Support the Mission
@@ -91,7 +84,6 @@ Every dollar helps us:
 Improve tone modeling
 
 Offer free tools for underserved communities
-
 Host & scale the open-source version
 
 🤝 Contribute or Collaborate
@@ -114,11 +106,8 @@ We welcome contributions! Want to help?
 
 📢 Help Us Grow
 Use these hashtags when you share:
-
-less
-Copy
-Edit
 #B2BGhostwriter #LinkedInGrowth #FounderBrand #AIWriter #DailyLinkedIn #OpenSourceGhostwriting #PersonalBrandAI
+
 ⭐️ Star this repo if you believe in building authentic, scalable content for entrepreneurs.
 
 ⚡️ Built with ❤️ by Marlon Ridge Diaz Bulaquena
