@@ -84,6 +84,8 @@ cd b2b-linkedin-ghostwriter
 npm install
 npm run dev
 
+---
+
 🧪 Coming soon: hosted version + deploy button via Vercel
 
 🤝 Support & Collaboration
